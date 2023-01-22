@@ -12,7 +12,7 @@ def predict_chance(GREScore,TOEFLScore,UniversityRating,CGPA):
 
 
 def main():
-    st.title("Admission prediction APP using ML") #simple title for the app
+    st.title("Admission prediction APP using ML - A Varun Dinesh's Corporation ") #simple title for the app
     html_temp="""
         <div>
         <h2>Admission Prediction ML app</h2>
